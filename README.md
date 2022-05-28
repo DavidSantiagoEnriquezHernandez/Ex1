@@ -1,4 +1,4 @@
-# Ex1
+# Example 1 Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5., this is a little example of the use of angular, and an easy login deployed in a local server.
 
